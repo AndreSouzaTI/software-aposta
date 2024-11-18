@@ -6,3 +6,7 @@ Este projeto analisa sites esportivos para encontrar as melhores opções de apo
 - **src/**: Código principal.
 - **tests/**: Testes do código.
 - **docs/**: Documentação.
+
+## Como Usar
+1. Instale as dependências: `pip install -r requirements.txt`.
+2. Execute o script principal: `python src/main.py`.
